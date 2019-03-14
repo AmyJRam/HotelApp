@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/cart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:id="@+id/textView_total_cost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView_total_tax"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/btn_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Order" />
+
+</LinearLayout>

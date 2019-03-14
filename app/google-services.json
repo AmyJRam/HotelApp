@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "723587599424",
+    "firebase_url": "https://odes-ddf06.firebaseio.com",
+    "project_id": "odes-ddf06",
+    "storage_bucket": "odes-ddf06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723587599424:android:871189ed35030832",
+        "android_client_info": {
+          "package_name": "www.HotelApp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723587599424-9hca5rrunmicdjsucbm26qs20dmftfcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.HotelApp.com",
+            "certificate_hash": "7af948b7a4dd2a7421be6efa02fd4b6106df39ab"
+          }
+        },
+        {
+          "client_id": "723587599424-jc8i0qngve8edhl8c8lakisae6hv1r86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1x4TVlBK0-kvKFw4qPBQFVs9edLKXarQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723587599424-jc8i0qngve8edhl8c8lakisae6hv1r86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
